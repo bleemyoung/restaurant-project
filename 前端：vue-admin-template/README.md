@@ -88,3 +88,6 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+# yxh pxr wcf，三个人暑期实训的大作业
+这是前端部分，当时时间太紧，我们三个基本是完成了一个半成品就提交了，现在过了大概半年，本人（yxh）重新找了出来，打算这段时间完善功能。
+2021-12-20
